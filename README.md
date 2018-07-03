@@ -1,10 +1,8 @@
-## Communication for the 21st century
+## Communication today
 
-You can use the [editor on GitHub](https://github.com/stableis/communication/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The world has changed a lot, Privacy is a basic human right.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Options E2E
+### Options End to End Encryption
 
 2018
 
